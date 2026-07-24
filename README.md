@@ -1,5 +1,20 @@
 # Where and How Well: Reliability-Guided Dual-View Displacement Learning for Micro-Expression Recognition
 
+ACM International Conference on Multimedia (**MM 2026**) 
+
+Zhengyang Yu, [Zhiyuan Zhang](https://zhiyuanzhang.net/).
+
+If you found this paper useful in your research, please cite:
+```
+@inproceedings{dvaw2026,
+  title={Where and How Well: Reliability-Guided Dual-View Displacement Learning for Micro-Expression Recognition},
+  author={Yu, Zhengyang and Zhang, Zhiyuan},
+  booktitle={Proceedings of the 34rd ACM International Conference on Multimedia},
+  pages={1--9},
+  year={2026}
+}
+```
+
 This release provides the checkpoints, fold-wise predictions, and scripts needed to reproduce the main reported metrics of "Where and How Well: Reliability-Guided Dual-View Displacement Learning for Micro-Expression Recognition".
 
 ## Data
